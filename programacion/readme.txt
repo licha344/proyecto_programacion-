@@ -12,9 +12,9 @@ Notas
 * Promedio automático
 * Colores:
 
-  * 🟢 ≥7 Aprobado
-  * 🟡 6-6.9 Regular
-  * 🔴 <6 Desaprobado
+verde ≥7 Aprobado
+amarrillo 6-6.9 Regular
+rojo <6 Desaprobado
 Funciones PHP (Keywords)
  `promedio($notas)`
 Calcula promedio.
@@ -44,4 +44,5 @@ JS:
 DOM, eventos, validaciones, animaciones.
 
 CSS:
+
 Flexbox, Grid, responsive, animaciones.
