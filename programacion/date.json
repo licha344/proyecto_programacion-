@@ -1,0 +1,41 @@
+{
+    "students": {
+        "1": {
+            "name": "angel cortes",
+            "age": 16,
+            "active": true
+        },
+        "2": {
+            "name": "lisandro villagra",
+            "age": 16,
+            "active": true
+        },
+        "3": {
+            "name": "roman",
+            "age": 16,
+            "active": true
+        }
+    },
+    "grades": {
+        "1": {
+            "1": 8,
+            "2": 7,
+            "3": 9
+        },
+        "2": {
+            "1": 6,
+            "2": 9,
+            "3": 7
+        },
+        "3": {
+            "1": 5,
+            "2": 7,
+            "3": 8
+        }
+    },
+    "subjects": {
+        "1": "Matemática",
+        "2": "Lengua",
+        "3": "Historia"
+    }
+}
