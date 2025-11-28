@@ -1,3 +1,0 @@
-/* estilos básicos adicionales */
-body { background: #f8f9fa; }
-.table td, .table th { vertical-align: middle; }
